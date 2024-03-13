@@ -1,0 +1,27 @@
+[
+  {
+    "id": "SW001",
+    "name": "Fitbit aaaaa 3",
+    "price": 229.99
+  },
+  {
+    "id": "SW002",
+    "name": "Apple aaaa Series 7",
+    "price": 399.99
+  },
+  {
+    "id": "SW003",
+    "name": "Samsung aaa Watch 4",
+    "price": 299.99
+  },
+  {
+    "id": "SW004",
+    "name": "Garmin aaaa 945",
+    "price": 599.99
+  },
+  {
+    "id": "SW005",
+    "name": "Huawei aaaa GT 2 Pro",
+    "price": 349.99
+  }
+]
